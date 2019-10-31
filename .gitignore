@@ -1,0 +1,8 @@
+# ignore folder node_modules
+.idea
+
+# ignore folder node_modules
+node_modules/
+
+# ignore package-lock.json
+package-lock.json
